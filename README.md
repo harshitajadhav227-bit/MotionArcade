@@ -11,5 +11,4 @@ For Subway Surfers:
 - Run 'python subwaysurfers.py'
 - Hold both wrists in the center area, play by moving up/down/left/right
 
-Demo: https://drive.google.com/file/d/1l7qtd5VNtliqKeqt6mIkulofmaruXzb-/view?usp=share_link
 
